@@ -131,7 +131,7 @@ const TeacherForm: React.FC = () => {
                 { value: 'Física', label: 'Física' },
                 { value: 'Geográfia', label: 'Geográfia' },
                 { value: 'História', label: 'História' },
-                { value: 'Mátematica', label: 'Mátematica' },
+                { value: 'Matemática', label: 'Matemática' },
                 { value: 'Português', label: 'Português' },
                 { value: 'Química', label: 'Química' },
               ]}
