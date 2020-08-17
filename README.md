@@ -33,27 +33,33 @@ O projeto foi administrado pela <a href="https://rocketseat.com.br/">@Rocketseat
 <div>
 <h3>Web</h3>
   <p>Landing Page
-  <img src=".github/landing.png" alt="landing" height="425" width="400">
-  <img src=".github/landingresponsivo.png" alt="landing" height="425" width="400"></p>
+  <br />
+  <img src=".github/landing.png" alt="landing" height="425" width="800">
+  <img src=".github/landingresponsivo.png" alt="landing" height="425" width="800"></p>
 
   <p>Teacher Form
-  <img src=".github/teacherform.gif" alt="demo" height="425" width="400"></p>
+  <br />
+  <img src=".github/teacherform.gif" alt="demo" height="425" width="800"></p>
 
   <p>Teacher List 
-  <img src=".github/teacherlist.gif" alt="demo" height="425" width="400">
-  <img src=".github/teacherlist.png" alt="teacher list" height="425" width="400"></p>
+  <br />
+  <img src=".github/teacherlist.gif" alt="demo" height="425" width="800">
+  <img src=".github/teacherlist.png" alt="teacher list" height="425" width="800"></p>
 
   <h3>Mobile</h3>
   <p>Landing Page
-  <img src=".github/landingmobile.jpg" alt="landing" height="425" width="400">
+  <br />
+  <img src=".github/landingmobile.jpg" alt="landing" height="425">
 
   <p>Teacher Form
-  <img src=".github/teacherformmobile.jpg" alt="teacher form" height="425" width="400"></p>
+  <br />
+  <img src=".github/teacherformmobile.jpg" alt="teacher form" height="425"></p>
 
   <p>Teacher List 
-  <img src=".github/teacherlistmobile.jpg" alt="teacher list" height="425" width="400">
-  <img src=".github/teacherlistmobile2.jpg" alt="teacher list" height="425" width="400">
-  <img src=".github/teacherlikemobile.jpg" alt="teacher like" height="425" width="400"></p>
+  <br />
+  <img src=".github/teacherlistmobile.jpg" alt="teacher list" height="425">
+  <img src=".github/teacherlistmobile2.jpg" alt="teacher list" height="425">
+  <img src=".github/teacherlikemobile.jpg" alt="teacher like" height="425"></p>
 </div>
 
 ## Começando
