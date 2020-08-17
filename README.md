@@ -1,12 +1,12 @@
 <h1 align="center">
 <br>
-  <img src=".github/logo.png" alt="Proffy" width="120">
+  <img src=".github/logo.png" alt="Proffy" width="300">
 <br>
 <br>
 Proffy
 </h1>
  
-<p align="center">Um projeto para conectar professores e estudantes.
+<p align="center">Um projeto para conectar estudantes e professores de diversas matérias.
 <br />
 <br />
 O projeto foi administrado pela <a href="https://rocketseat.com.br/">@Rocketseat </a>na Next Level Week #2
