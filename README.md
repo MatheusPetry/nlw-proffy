@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src=".github/logoproffy.png" alt="Proffy" width="120">
+  <img src=".github/logo.png" alt="Proffy" width="120">
 <br>
 <br>
 Proffy
@@ -32,34 +32,34 @@ O projeto foi administrado pela <a href="https://rocketseat.com.br/">@Rocketseat
 ## Layout
 <div>
 <h3>Web</h3>
-  <p>Landing Page
+  <h4>Landing Page
   <br />
   <img src=".github/landing.png" alt="landing" height="425" width="800">
-  <img src=".github/landingresponsivo.png" alt="landing" height="425" width="800"></p>
+  <img src=".github/landingresponsivo.png" alt="landing" height="425" width="600"></h4>
 
-  <p>Teacher Form
+  <h4>Teacher Form
   <br />
-  <img src=".github/teacherform.gif" alt="demo" height="425" width="800"></p>
+  <img src=".github/teacherform.gif" alt="demo" height="425" width="600"></h4>
 
-  <p>Teacher List 
+  <h4>Teacher List 
   <br />
-  <img src=".github/teacherlist.gif" alt="demo" height="425" width="800">
-  <img src=".github/teacherlist.png" alt="teacher list" height="425" width="800"></p>
+  <img src=".github/teacherlist.gif" alt="demo" height="425" width="600">
+  <img src=".github/teacherlist.png" alt="teacher list" height="425" width="600"></h4>
 
   <h3>Mobile</h3>
-  <p>Landing Page
+  <h4>Landing Page
   <br />
   <img src=".github/landingmobile.jpg" alt="landing" height="425">
 
-  <p>Teacher Form
+  <h4>Teacher Form
   <br />
-  <img src=".github/teacherformmobile.jpg" alt="teacher form" height="425"></p>
+  <img src=".github/teacherformmobile.jpg" alt="teacher form" height="425"></h4>
 
-  <p>Teacher List 
+  <h4>Teacher List 
   <br />
   <img src=".github/teacherlistmobile.jpg" alt="teacher list" height="425">
   <img src=".github/teacherlistmobile2.jpg" alt="teacher list" height="425">
-  <img src=".github/teacherlikemobile.jpg" alt="teacher like" height="425"></p>
+  <img src=".github/teacherlikemobile.jpg" alt="teacher like" height="425"></h4>
 </div>
 
 ## Começando
@@ -71,7 +71,7 @@ O projeto foi administrado pela <a href="https://rocketseat.com.br/">@Rocketseat
 ## Primeiros passos com o servidor backend
 
 1.  Vá para a pasta backend: `cd server`
-2.  Execute `yarn dev` para iniciar o servidor
+2.  Execute `yarn start` para iniciar o servidor
 
 ## Primeiros passos com o aplicativo front-end
 
