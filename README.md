@@ -9,13 +9,8 @@ Proffy
 <p align="center">Um projeto para conectar professores e estudantes.
 <br />
 <br />
-O projeto foi administrado pela </p>
-
- ## 
- [@Rocketseat](https://rocketseat.com.br/) 
- <p>
-na Next Level Week #2
- </p>
+O projeto foi administrado pela <a href="https://rocketseat.com.br/">@Rocketseat </a>na Next Level Week #2
+</p>
 
 
 <p align="center">
@@ -33,6 +28,33 @@ na Next Level Week #2
 - 💹 **Node Js**
 - 📄 **SQLite**
 - ⍓  **Expo**
+
+## Layout
+<div>
+<h3>Web</h3>
+  <p>Landing Page
+  <img src=".github/landing.png" alt="landing" height="425" width="400">
+  <img src=".github/landingresponsivo.png" alt="landing" height="425" width="400"></p>
+
+  <p>Teacher Form
+  <img src=".github/teacherform.gif" alt="demo" height="425" width="400"></p>
+
+  <p>Teacher List 
+  <img src=".github/teacherlist.gif" alt="demo" height="425" width="400">
+  <img src=".github/teacherlist.png" alt="teacher list" height="425" width="400"></p>
+
+  <h3>Mobile</h3>
+  <p>Landing Page
+  <img src=".github/landingmobile.jpg" alt="landing" height="425" width="400">
+
+  <p>Teacher Form
+  <img src=".github/teacherformmobile.jpg" alt="teacher form" height="425" width="400"></p>
+
+  <p>Teacher List 
+  <img src=".github/teacherlistmobile.jpg" alt="teacher list" height="425" width="400">
+  <img src=".github/teacherlistmobile2.jpg" alt="teacher list" height="425" width="400">
+  <img src=".github/teacherlikemobile.jpg" alt="teacher like" height="425" width="400"></p>
+</div>
 
 ## Começando
 
