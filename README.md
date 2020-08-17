@@ -12,7 +12,7 @@ Proffy
 O projeto foi administrado pela </p>
 
  ## 
- [@Rocketseat] (https://rocketseat.com.br/) 
+ [@Rocketseat](https://rocketseat.com.br/) 
  <p>
 na Next Level Week #2
  </p>
@@ -53,9 +53,9 @@ na Next Level Week #2
 ## Primeiros passos com o aplicativo móvel
 
 1.  Vá para a pasta móvel `cd mobile`
-2.  Execute `react-native run-ios` (ou `react-native run android`) para iniciar o aplicativo no emulador ou baixe o aplicativo [Expo] (https://play.google.com/store/apps/details?id=host.exp.exponent), leia o QRCode e emule pelo aparelho físico
+2.  Execute `react-native run-ios` (ou `react-native run android`) para iniciar o aplicativo no emulador ou baixe o aplicativo [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent), leia o QRCode e emule pelo aparelho físico
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte a página [LICENSE] (https://opensource.org/licenses/MIT) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte a página [LICENSE](https://opensource.org/licenses/MIT) para obter detalhes.
  
